@@ -1,7 +1,7 @@
 # Spam_whatsapp
 Envía mensajes masivos en Whatsapp
 
-Usando esta aplicación desarrollada con el lenguaje Python usando las librerías pyautogui y Tkinter se puede realizar spam a una persona enviando el mismo mensaje una cantidad de veces dada por el usuario.
+Usando esta aplicación desarrollada con el lenguaje de programación Python en su versión 3.9.7 y usando las librerías pyautogui y Tkinter se puede realizar spam a una persona enviando el mismo mensaje una cantidad de veces dada por el usuario.
 
 ## Instalación de dependencias
 
